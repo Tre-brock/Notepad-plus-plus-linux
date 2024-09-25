@@ -1,4 +1,4 @@
-# Notepad-plus-plus-linux-nstaller
+# Notepad-plus-plus-linux-installer
 <hr>
 ### how to install
 Download notepad++ linux installer.sh.tar.gz from releases <br>
